@@ -11,3 +11,5 @@ Used `key={task.id}` when rendering tasks with `.map()`. This helps React identi
 
 Used `.filter()` to filter tasks by status and priority. I also made sure users could select multiple filters or view all tasks.
 
+### 3. How did you handle state updates for task status changes?
+
