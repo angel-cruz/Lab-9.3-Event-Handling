@@ -13,3 +13,5 @@ Used `.filter()` to filter tasks by status and priority. I also made sure users 
 
 ### 3. How did you handle state updates for task status changes?
 
+Used `useState` to manage tasks and `.map()` to update the status of a specific task without changing the original array.
+
