@@ -15,3 +15,6 @@ Used `.filter()` to filter tasks by status and priority. I also made sure users 
 
 Used `useState` to manage tasks and `.map()` to update the status of a specific task without changing the original array.
 
+### 4. What challenges did you face when implementing conditional rendering?
+
+Displaying different styles based on task status and priority. I used conditional CSS classes and displayed a message when no tasks matched the filters.
